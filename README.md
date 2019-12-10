@@ -1,2 +1,2 @@
 # CPP-IAU-Algorithm
-Istanbul Aydın University A utumn Period - CPP Algorithm Example
+Istanbul Aydın University Autumn Period - CPP Algorithm Example
