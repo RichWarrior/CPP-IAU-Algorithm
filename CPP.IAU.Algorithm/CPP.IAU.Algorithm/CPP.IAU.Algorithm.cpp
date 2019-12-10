@@ -4,7 +4,6 @@
 
 int main()
 {
-    std::cout << "Hello World!\n";
     int loc_x = 0, loc_y = 0,stepCount = 0;
     do
     {
